@@ -1,1 +1,7 @@
 /venv/
+/bottleneck_features/
+/dog_images/
+/haarcascades/
+/lfw/
+/models/
+/saved_models/
